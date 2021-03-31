@@ -62,6 +62,3 @@ See the [official Contentful getting started guide](https://www.contentful.com/d
 Feel free to open pull requests to fix bugs. If you want to add features, please have a look at the [original version](https://github.com/contentful-userland/gatsby-contentful-starter). It is always open to contributions and pull requests.
 
 You can learn more about how Contentful userland is organized by visiting [our about repository](https://github.com/contentful-userland/about).
-
-
-npm run setup -- --spaceId ycf3u3664k16 --deliveryToken wMKf3o_0SDtJOfVVtrFZoRjh3SshZummafdQvViFpX0 --managementToken CFPAT-4gYuJ9QHTt0ZBDn3h6dJNLQEGhRE_Ujk8qtP5pmI3Yg
